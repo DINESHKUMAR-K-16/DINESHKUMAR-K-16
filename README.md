@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Shubham Patel</h1>
+<h1 align="center">Hi 👋, I'm </h1>
 <h2 align="center">A passionate Full Stack Developer</h2>
 <img align="right" src="img1.jpg" height="60%" width="50%" alt="Image to download">
 
 - 🔭 I’m currently learning *Spring Boot*
-- 📫 How to reach me *(https://www.linkedin.com/in/shubham-patel-8b296b243/)*
+- 📫 How to reach me *()*
 
 ## Coding Profile
 <p align="left">
