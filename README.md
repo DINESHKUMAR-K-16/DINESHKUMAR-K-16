@@ -2,7 +2,7 @@
 <h2 align="center">A passionate Front-End Developer</h2>
 <img align="right" src="img1.jpg" height="60%" width="50%" alt="Image to download">
 
-- 🔭 I’m currently learning *Spring Boot*
+- 🔭 I’m currently learning *Node.js*
 - 📫 How to reach me *()*
 
 ## Coding Profile
