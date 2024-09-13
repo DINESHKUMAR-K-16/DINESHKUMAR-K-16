@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dinesh Kumar K</h1>
-<h2 align="center">A passionate Full Stack Developer</h2>
+<h2 align="center">A passionate Front-End Developer</h2>
 <img align="right" src="img1.jpg" height="60%" width="50%" alt="Image to download">
 
 - 🔭 I’m currently learning *Spring Boot*
