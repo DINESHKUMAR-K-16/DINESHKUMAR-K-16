@@ -3,7 +3,7 @@
 <img align="right" src="img1.jpg" height="60%" width="50%" alt="Image to download">
 
 - 🔭 I’m currently learning *Node.js*
-- 📫 How to reach me *(https://www.linkedin.com/dinesh-kumar-k-435020299/)*
+- 📫 How to reach me *(https://www.linkedin.com/in/dinesh-kumar-k-435020299/)*
 
 ## Coding Profile
 <p align="left">
