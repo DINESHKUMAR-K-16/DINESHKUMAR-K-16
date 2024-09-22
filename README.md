@@ -1,4 +1,12 @@
-<h1 align="center">Hi 👋, I'm Dinesh Kumar K</h1>
+<img src="https://github.com/novojitdas/novojitdas/blob/main/icons/Rainbow.gif" width="100%">
+
+
+<h1 align="center">
+  Welcome to Dinesh kumar k profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  
+</h1>
+<!--<h1 align="center">Hi 👋, I'm Dinesh Kumar K</h1>-->
 <h2 align="center">A passionate Front-End Developer</h2>
 <img align="right" src="img1.jpg" height="60%" width="50%" alt="Image to download">
 
@@ -26,6 +34,18 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
+
+<img src="https://github.com/novojitdas/novojitdas/blob/main/icons/Rainbow.gif" width="100%">
+
+
+
+
+
+
+
+
 
 
 
