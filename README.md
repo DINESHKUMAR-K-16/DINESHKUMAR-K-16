@@ -26,11 +26,10 @@
 </p>
 
 
-# Welcome to my GitHub Profile 👋
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=DINESHKUMAR-K-16&color=green&style=flat-square)
 
-Thank you for visiting my profile! Feel free to explore my projects and repositories.
+
 
 
 
@@ -47,10 +46,11 @@ Thank you for visiting my profile! Feel free to explore my projects and reposito
 
 
 
+Thank you for visiting my profile! Feel free to explore my projects and repositories.
+
+
+
 <img src="https://github.com/novojitdas/novojitdas/blob/main/icons/Rainbow.gif" width="100%">
-
-
-
 
 
 
