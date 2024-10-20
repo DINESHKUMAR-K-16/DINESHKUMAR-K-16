@@ -46,7 +46,7 @@
 
 
 
-Thank you for visiting my profile! Feel free to explore my projects and repositories.
+
 
 
 
