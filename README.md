@@ -10,7 +10,7 @@
 <h2 align="center">A passionate Front-End Developer</h2>
 <img align="right" src="img1.jpg" height="60%" width="50%" alt="Image to download">
 
-- 🔭 I’m currently learning *Node.js*
+- 🔭 I’m currently learning *AWS*
 - 📫 How to reach me *(https://www.linkedin.com/in/dinesh-kumar-k-435020299/)*
 
 ## Coding Profile
