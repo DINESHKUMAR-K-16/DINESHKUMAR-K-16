@@ -16,7 +16,7 @@
 ## Coding Profile
 <p align="left">
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="1" height="28" width="38" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://leetcode.com/u/dd7528157/" alt="" height="30" width="40" /></a>
 </p>
 
 ## Connect with Me
