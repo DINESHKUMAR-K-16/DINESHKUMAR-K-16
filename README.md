@@ -56,14 +56,14 @@
 
  
 
-###
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DINESHKUMAR-K-16/DINESHKUMAR-K-16/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/DonaldReddy/DonaldReddy/output/snake.svg" alt="Snake animation" />
 </div>
 
-###
+<br />
+
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DINESHKUMAR-K-16.DINESHKUMAR-K-16&left_color=darkblue&right_color=black&left_text=Profile%20Visits%20"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=DINESHKUMAR-K-16.DINESHKUMAR-K-16&left_color=darkblue&right_color=black&left_text=Profile%20Visits%20" />
 </div>
 
 
