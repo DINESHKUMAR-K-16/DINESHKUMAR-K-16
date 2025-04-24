@@ -54,16 +54,7 @@
 
 
 
-  ###
-  <img src="https://github-profile-trophy.vercel.app?username=DonaldReddy&theme=nord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-
-  ###
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DonaldReddy&radius=16&theme=nightowl&area=true&order=5" height="300" alt="activity-graph graph"  />
-
-</div>
-
-###
-
+ 
 
 ###
 <div align="center">
